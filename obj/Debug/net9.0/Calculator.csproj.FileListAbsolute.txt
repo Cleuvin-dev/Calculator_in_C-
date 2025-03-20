@@ -1,0 +1,14 @@
+c:\Desenv\Balta\Fundamentos de C#\Calculator\bin\Debug\net9.0\Calculator.exe
+c:\Desenv\Balta\Fundamentos de C#\Calculator\bin\Debug\net9.0\Calculator.deps.json
+c:\Desenv\Balta\Fundamentos de C#\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+c:\Desenv\Balta\Fundamentos de C#\Calculator\bin\Debug\net9.0\Calculator.dll
+c:\Desenv\Balta\Fundamentos de C#\Calculator\bin\Debug\net9.0\Calculator.pdb
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\Calculator.dll
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\Calculator.pdb
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+c:\Desenv\Balta\Fundamentos de C#\Calculator\obj\Debug\net9.0\ref\Calculator.dll
